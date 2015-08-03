@@ -1,0 +1,35 @@
+﻿body {
+    
+}
+.dark-background{
+    background-image:url("http://i.imgur.com/i3OA2PJ.jpg");
+}
+.container-fluid-dark{
+    background-color: #f8f8f8;
+}
+.container-fluid{
+    padding-right:15px;
+    padding-left:15px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.no-bullets{
+    list-style-type: none;
+}
+.font-style-1{
+    font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+    padding: 15px;
+    color: #596979;
+}
+.font-style-2{
+    font-size:15px;
+    font-family: "Open Sans", sans-serif;
+    padding: 0px;
+    color: #596979;
+}
+hr{
+    height:30px;
+    color:#596979;
+}
+
